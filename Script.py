@@ -1,8 +1,6 @@
 class script(object):
-    START_TXT = """<b>𝙍𝙖𝙙𝙝𝙚𝙮 𝙍𝙖𝙙𝙝𝙚𝙮 {} Welcome to Mythology & fantasy Show Provider Bot. Here You Can Find Many Mythology & fantasy Shows.
-    
-
-Its Easy To Use Me; Just Add Me To Your Group As Admin, 
+    START_TXT = """<b>𝙍𝙖𝙙𝙝𝙚𝙮 𝙍𝙖𝙙𝙝𝙚𝙮 {} Welcome to Mythology & fantasy Show Provider Bot. Here You Can Find Many Mythology & fantasy Shows.\n\n
+    Its Easy To Use Me; Just Add Me To Your Group As Admin, 
 Thats All, i will Provide  Mythology & fantasy Shows There...😊😊</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {} Fʀɪᴇɴᴅ Hᴇʀᴇ Yᴏᴜʀ Bᴜᴛᴛᴏɴs 👇</b>"""

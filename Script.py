@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """<b>𝙍𝙖𝙙𝙝𝙚𝙮 𝙍𝙖𝙙𝙝𝙚𝙮 {} Welcome to Mythology & fantasy Show Provider Bot. Here You Can Find Many Mythology & fantasy Shows.\n\n
-    Its Easy To Use Me; Just Add Me To Your Group As Admin, 
+Its Easy To Use Me; Just Add Me To Your Group As Admin, 
 Thats All, i will Provide  Mythology & fantasy Shows There...😊😊</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {} Fʀɪᴇɴᴅ Hᴇʀᴇ Yᴏᴜʀ Bᴜᴛᴛᴏɴs 👇</b>"""
@@ -26,7 +26,7 @@ Thats All, i will Provide  Mythology & fantasy Shows There...😊😊</b>"""
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/YourDilip>ᴅɪʟɪᴘ_ᴋᴜᴍᴀʀ</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ
+📡 ʜᴏsᴛᴇᴅ ᴏɴ : ᴘᴀɪᴅ sᴇʀᴠᴇʀ
 📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/RadhaKrishn_new_Episodes>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/c/1967719188/8>𝖯𝗋𝗂𝗏𝖺𝗍𝖾</a></b>"""
 

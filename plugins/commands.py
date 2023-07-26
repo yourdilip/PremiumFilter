@@ -265,6 +265,21 @@ async def start(client, message):
         protect_content=True if pre == 'filep' else False,
         )
                     
+@Client.on_message(filters.command("availableserial"))
+async def availableserial(bot, message):
+    await message.reply_text(LIST)     
+ 
+AVAILABLESERIAL= """╭━━ Available Serial 😇━
+┣
+┣ Dhruv Tara ➺ 【✅ / ♾】
+┣ Shiv Shakti Shakti【07 / ♾】
+┣ DEVON KE DEV MAHADEV 【✅ 】
+┣ MAHABHARAT 【✅ 】
+┣ BIGG BOSS OTT SEASON 02 【✅ 】
+┣ KHATRON KE KHILADI S13 【✅ 】
+┣
+╰━@Entertainment_Official_Bot━━━━"""
+
 
 @Client.on_message(filters.command('channel') & filters.user(ADMINS))
 async def channel_info(bot, message):

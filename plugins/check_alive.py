@@ -26,7 +26,22 @@ async def series(_, message):
 
 @Client.on_message(filters.command("download", CMD))
 async def tutorial(_, message):
-    await message.reply_text("Fɪʀsᴛ Cʟɪᴄᴋ Tʜɪs Lɪɴᴋ 👉 https://t.me/Sharath_Links/13/n/nAғᴛᴇʀ Wᴀᴛᴄʜᴇᴅ Tʜᴇ Vɪᴅᴇᴏ Sᴇɴᴅ Aɴʏ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Nᴀᴍᴇ Wɪᴛʜ Cᴏᴛᴛᴇᴄᴛ Sᴩᴇʟʟɪɴɢ Aɴᴅ I Wɪʟʟ Sᴇɴᴅ Tʜᴇ Fɪʟᴇ Lɪɴᴋ/n/nCᴏʀʀᴇᴄᴛ Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛɪɴɢ Mᴇᴛʜᴏᴅ 👉 /movies /n/nCᴏʀʀᴇᴄᴛ Sᴇʀɪᴇs Rᴇǫᴜᴇsᴛɪɴɢ Mᴇᴛʜᴏᴅ 👉 /series")
+    await message.reply_text("Fɪʀsᴛ Cʟɪᴄᴋ Tʜɪs Lɪɴᴋ 👉 https://t.me/Entertainment_official_channel/56/n/nAғᴛᴇʀ Wᴀᴛᴄʜᴇᴅ Tʜᴇ Vɪᴅᴇᴏ Sᴇɴᴅ Aɴʏ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Nᴀᴍᴇ Wɪᴛʜ Cᴏᴛᴛᴇᴄᴛ Sᴩᴇʟʟɪɴɢ Aɴᴅ I Wɪʟʟ Sᴇɴᴅ Tʜᴇ Fɪʟᴇ Lɪɴᴋ/n/nCᴏʀʀᴇᴄᴛ Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛɪɴɢ Mᴇᴛʜᴏᴅ 👉 /movies /n/nCᴏʀʀᴇᴄᴛ Sᴇʀɪᴇs Rᴇǫᴜᴇsᴛɪɴɢ Mᴇᴛʜᴏᴅ 👉 /series")
+
+@Client.on_message(filters.command("availableserial"))
+async def availableserial(bot, message):
+    await message.reply_text(LIST)     
+ 
+AVAILABLESERIAL= """╭━━ Available Serial 😇━
+┣
+┣ Dhruv Tara ➺ 【✅ / ♾】
+┣ Shiv Shakti Shakti【07 / ♾】
+┣ DEVON KE DEV MAHADEV 【✅ 】
+┣ MAHABHARAT 【✅ 】
+┣ BIGG BOSS OTT SEASON 02 【✅ 】
+┣ KHATRON KE KHILADI S13 【✅ 】
+┣
+╰━@Entertainment_Official_Bot━━━━"""
 
 @Client.on_message(filters.command("ping", CMD))
 async def ping(_, message):

@@ -30,7 +30,16 @@ async def tutorial(_, message):
 
 @Client.on_message(filters.command("availableserial", CMD))
 async def availableserial(_, message):
-    await message.reply_text(LIST)     
+    await message.reply_text(╭━━ Available Serial 😇━
+┣
+┣ Dhruv Tara ➺ 【✅ / ♾】
+┣ Shiv Shakti Shakti【07 / ♾】
+┣ DEVON KE DEV MAHADEV 【✅ 】
+┣ MAHABHARAT 【✅ 】
+┣ BIGG BOSS OTT SEASON 02 【✅ 】
+┣ KHATRON KE KHILADI S13 【✅ 】
+┣
+╰━@Entertainment_Official_Bot━━━━     
  
 AVAILABLESERIAL= """╭━━ Available Serial 😇━
 ┣

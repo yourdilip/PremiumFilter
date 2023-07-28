@@ -30,7 +30,7 @@ async def tutorial(_, message):
 
 @Client.on_message(filters.command("availableserial", CMD))
 async def availableserial(_, message):
-    await message.reply_list("╭━━ Available Serial 😇━
+    await message.reply_txt("╭━━ Available Serial 😇━
 ┣
 ┣ Dhruv Tara ➺ 【✅ / ♾】
 ┣ Shiv Shakti Shakti【07 / ♾】

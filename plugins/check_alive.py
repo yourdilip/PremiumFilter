@@ -30,7 +30,7 @@ async def tutorial(_, message):
 
 @Client.on_message(filters.command("availableserial", CMD))
 async def availableserial(_, message):
-    await message.reply_text(╭━━ Available Serial 😇━
+    await message.reply_list("╭━━ Available Serial 😇━
 ┣
 ┣ Dhruv Tara ➺ 【✅ / ♾】
 ┣ Shiv Shakti Shakti【07 / ♾】
@@ -39,18 +39,7 @@ async def availableserial(_, message):
 ┣ BIGG BOSS OTT SEASON 02 【✅ 】
 ┣ KHATRON KE KHILADI S13 【✅ 】
 ┣
-╰━@Entertainment_Official_Bot━━━━     
- 
-AVAILABLESERIAL= """╭━━ Available Serial 😇━
-┣
-┣ Dhruv Tara ➺ 【✅ / ♾】
-┣ Shiv Shakti Shakti【07 / ♾】
-┣ DEVON KE DEV MAHADEV 【✅ 】
-┣ MAHABHARAT 【✅ 】
-┣ BIGG BOSS OTT SEASON 02 【✅ 】
-┣ KHATRON KE KHILADI S13 【✅ 】
-┣
-╰━@Entertainment_Official_Bot━━━━"""
+╰━@Entertainment_Official_Bot━━━━")
 
 @Client.on_message(filters.command("ping", CMD))
 async def ping(_, message):

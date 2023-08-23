@@ -192,7 +192,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     "Iᴀᴍ Nᴏᴛ Cᴏɴɴᴇᴄᴛᴇᴅ Tᴏ Aɴʏ Gʀᴏᴜᴩ \nCʜᴇᴄᴋ /connections Oʀ Cᴏɴɴᴇᴄᴛ Tᴏ Aɴʏ Gʀᴏᴜᴩ",
                     quote=True
                 )
-                return await query.answer(' ˆ°• Tᴀᴍɪʟᴀɴ BᴏᴛsZ •°ˆ ')
+                return await query.answer(' ˆ°• ᴇɴᴛᴇʀᴛᴀɪɴᴍᴇɴᴛ BᴏᴛsZ •°ˆ ')
 
         elif chat_type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
             grp_id = query.message.chat.id
@@ -463,7 +463,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🔭 Sᴛᴀᴛs 📊', callback_data='stats'),
             InlineKeyboardButton('📞 Cᴏɴᴛᴀᴄᴛ 📟', callback_data='contact')
         ], [
-            InlineKeyboardButton('😅 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 😊', callback_data='source')
+            InlineKeyboardButton('😅 ᴄᴏɴᴛᴇɴᴛ 😊', callback_data='ᴄᴏɴᴛᴇɴᴛ')
         ], [
             InlineKeyboardButton('🤔 Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Fɪʟᴇs Fʀᴏᴍ Mᴇ 🤔', callback_data='info')
         ], [

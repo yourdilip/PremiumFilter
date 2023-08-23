@@ -262,25 +262,11 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('🚸 ᴅᴇʟᴇᴛᴇ', callback_data='close_data') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('🚸 ᴅᴇʟᴇᴛᴇ', callback_data='close_data') ],
+                                           [ InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs🌐', url='https://t.me/Entertainment_official_channel'),
+                                           InlineKeyboardButton('sᴇᴀʀᴄʜ ᴛᴇʀᴍs 💁', url='https://t.me/Daily_serial_episodes')]] ),
         protect_content=True if pre == 'filep' else False,
         )
-                    
-@Client.on_message(filters.command("availableserial"))
-async def availableserial(bot, message):
-    await message.reply_text(LIST)     
- 
-AVAILABLESERIAL= """╭━━ Available Serial 😇━
-┣
-┣ Dhruv Tara ➺ 【✅ / ♾】
-┣ Shiv Shakti Shakti【07 / ♾】
-┣ DEVON KE DEV MAHADEV 【✅ 】
-┣ MAHABHARAT 【✅ 】
-┣ BIGG BOSS OTT SEASON 02 【✅ 】
-┣ KHATRON KE KHILADI S13 【✅ 】
-┣
-╰━@Entertainment_Official_Bot━━━━"""
-
 
 @Client.on_message(filters.command('channel') & filters.user(ADMINS))
 async def channel_info(bot, message):

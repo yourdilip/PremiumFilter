@@ -30,13 +30,35 @@ Thats All, i will Provide  Mythology & fantasy Shows There...😊😊</b>"""
 📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/RadhaKrishn_new_Episodes>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/c/1967719188/8>𝖯𝗋𝗂𝗏𝖺𝗍𝖾</a></b>"""
 
-    SOURCES_TXT = """Tʜɪs Is private bot by @Entertainment_official_channel
+    CONTENT_TXT = """╭━━ Content 😇━
+┣
+┣ Dhruv Tara ➺ 【✅ / ♾】
+┣ Shiv Shakti Shakti【07 / ♾】
+┣ DEVON KE DEV MAHADEV 【✅ 】
+┣ MAHABHARAT 【✅ 】
+┣ BIGG BOSS OTT SEASON 02 【✅ 】
+┣ KHATRON KE KHILADI S13 【✅ 】
+┣ 
+┣ More Soon..
+┣
+╰━@Entertainment_Official_Bot━━━━
 
 - 100﹪ free access for all <a href=https://t.me/Entertainment_official_channel>Entertainment</a>
 
 - & ad free"""
 
-    SOURCE_TXT = """Tʜɪs Is private bot by @Entertainment_official_channel</b>
+    CONTENT_TXT = """╭━━ Content 😇━
+┣
+┣ Dhruv Tara ➺ 【✅ / ♾】
+┣ Shiv Shakti Shakti【07 / ♾】
+┣ DEVON KE DEV MAHADEV 【✅ 】
+┣ MAHABHARAT 【✅ 】
+┣ BIGG BOSS OTT SEASON 02 【✅ 】
+┣ KHATRON KE KHILADI S13 【✅ 】
+┣ 
+┣ More Soon..
+┣
+╰━@Entertainment_Official_Bot━━━━'</b>
 
 - 100﹪ free access for all <a href=https://t.me/Entertainment_official_channel>Entertainment</a></b>
 

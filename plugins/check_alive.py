@@ -30,7 +30,8 @@ async def tutorial(_, message):
 
 @Client.on_message(filters.command("content", CMD))
 async def tutorial(_, message):
-    await message.reply_text("╭━━ Available Serial 😇━
+    await message.reply_text("
+    Here is Available Serial\n╭━━ Available Serial 😇━
 ┣
 ┣ Dhruv Tara ➺ 【✅ / ♾】
 ┣ Shiv Shakti Shakti【07 / ♾】

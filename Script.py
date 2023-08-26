@@ -30,7 +30,7 @@ Thats All, i will Provide  Mythology & fantasy Shows There...😊😊</b>"""
 📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/RadhaKrishn_new_Episodes>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/c/1967719188/8>𝖯𝗋𝗂𝗏𝖺𝗍𝖾</a></b>"""
 
-    CONTENT_TXT = """╭━━ Content 😇━
+    SOURCE_TXT = """╭━━ Content 😇━
 ┣
 ┣ Dhruv Tara ➺ 【✅ / ♾】
 ┣ Shiv Shakti Shakti【07 / ♾】
@@ -45,9 +45,9 @@ Thats All, i will Provide  Mythology & fantasy Shows There...😊😊</b>"""
 
 - 100﹪ free access for all <a href=https://t.me/Entertainment_official_channel>Entertainment</a>
 
-- & ad free"""
+- short ad"""
 
-    CONTENT_TXT = """╭━━ Content 😇━
+    SOURCE_TXT = """╭━━ Content 😇━
 ┣
 ┣ Dhruv Tara ➺ 【✅ / ♾】
 ┣ Shiv Shakti Shakti【07 / ♾】
@@ -62,7 +62,7 @@ Thats All, i will Provide  Mythology & fantasy Shows There...😊😊</b>"""
 
 - 100﹪ free access for all <a href=https://t.me/Entertainment_official_channel>Entertainment</a></b>
 
-- ad free access for all"""
+- short ad"""
 
     FONT_TXT = """I Cᴀɴ Gᴇɴᴇʀᴀᴛᴇ Aᴛᴛʀᴀᴄᴛɪᴠᴇ Fᴏɴᴛs Fᴏʀ Yᴏᴜʀ Tᴇxᴛ Sᴇɴᴅ Lɪᴋᴇ Tʜɪs 👇
 

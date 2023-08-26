@@ -28,6 +28,19 @@ async def series(_, message):
 async def tutorial(_, message):
     await message.reply_text("Fɪʀsᴛ Cʟɪᴄᴋ Tʜɪs Lɪɴᴋ 👉 https://t.me/Entertainment_official_channel/56\n\n ʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ sᴏᴍᴇ ʜᴇʟᴘ Aɴʏ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Nᴀᴍᴇ Wɪᴛʜ Cᴏᴛᴛᴇᴄᴛ Sᴩᴇʟʟɪɴɢ Aɴᴅ I Wɪʟʟ Sᴇɴᴅ Tʜᴇ Fɪʟᴇ Lɪɴᴋ\n\nCᴏʀʀᴇᴄᴛ Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛɪɴɢ Mᴇᴛʜᴏᴅ 👉 /movies \n\nCᴏʀʀᴇᴄᴛ Sᴇʀɪᴇs Rᴇǫᴜᴇsᴛɪɴɢ Mᴇᴛʜᴏᴅ 👉 /series")
 
+@Client.on_message(filters.command("content", CMD))
+async def tutorial(_, message):
+    await message.reply_text("╭━━ Available Serial 😇━
+┣
+┣ Dhruv Tara ➺ 【✅ / ♾】
+┣ Shiv Shakti Shakti【07 / ♾】
+┣ DEVON KE DEV MAHADEV 【✅ 】
+┣ MAHABHARAT 【✅ 】
+┣ BIGG BOSS OTT SEASON 02 【✅ 】
+┣ KHATRON KE KHILADI S13 【✅ 】
+┣
+╰━@Entertainment_Official_Bot━━━━")
+
 @Client.on_message(filters.command("ping", CMD))
 async def ping(_, message):
     start_t = time.time()

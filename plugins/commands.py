@@ -54,7 +54,7 @@ async def start(client, message):
 
             ],[
 
-            InlineKeyboardButton('😅 ᴄᴏɴᴛᴇɴᴛ 😊', callback_data='sources')
+            InlineKeyboardButton('😅 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 😊', callback_data='sources')
 
             ],[
 
@@ -108,7 +108,7 @@ async def start(client, message):
             InlineKeyboardButton('💥 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 💥', url='https://t.me/Entertainment_official_channel'),
             InlineKeyboardButton('🔎 Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🔍', url='https://t.me/RadhaKrishn_new_Episodes')
             ],[
-            InlineKeyboardButton('😅 ᴄᴏɴᴛᴇɴᴛ 😊', callback_data='contents')
+            InlineKeyboardButton('😅 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 😊', callback_data='contents')
             ],[
             InlineKeyboardButton('💌 Aʙᴏᴜᴛ Aɴᴅ Iɴғᴏ 💌', callback_data= 'about')
             ],[

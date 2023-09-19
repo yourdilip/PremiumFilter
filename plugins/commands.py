@@ -540,3 +540,23 @@ async def save_template(client, message):
     template = message.text.split(" ", 1)[1]
     await save_group_settings(grp_id, 'template', template)
     await sts.edit(f"Sᴜᴄᴄᴇꜱꜱғᴜʟʟʏ ᴄʜᴀɴɢᴇᴅ ᴛᴇᴍᴘʟᴀᴛᴇ ғᴏʀ {title} to\n\n{template}")
+
+@Client.on_message(filters.command("content"))
+async def serials_bj(client, message):
+    await message.reply_text("""<b>Available Serial </b>
+    
+╭━━ Available Serial 😇━
+┣
+┣ Dhruv Tara ➺ 【✅ / ♾】
+┣ Shiv Shakti Shakti【07 / ♾】
+┣ DEVON KE DEV MAHADEV 【✅ 】
+┣ MAHABHARAT 【✅ 】
+┣ BIGG BOSS OTT SEASON 02 【✅ 】
+┣ KHATRON KE KHILADI S13 【✅ 】
+┣PAAPNAASHINI GANGA  【13/88 】
+┣
+┣More Soon...
+┣
+╰━@Entertainment_Official_Bot━━━━
+
+""")
